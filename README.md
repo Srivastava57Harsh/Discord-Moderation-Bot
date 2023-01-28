@@ -1,7 +1,4 @@
-<div align="center">
-<img alt="Hashstack Logo" src="https://hashstack.finance/company_logos/hashstack.svg" height="76" />
-<h1 style="margin: 0">Hashstack</h1>
-</div>
+
 
 <p align="center">
 DISCORD MODERATION BOT - HASH
@@ -67,7 +64,7 @@ $ yarn start
 ```
 
 ## Production
-* MongoDB deployed at https://cloud.mongodb.com/ using dev@hashstack.finance (Google login). Its a serverless instance deployed to AWS. 
+* MongoDB deployed at https://cloud.mongodb.com/ using organization's domain (Google login). Its a serverless instance deployed to AWS. 
 * Instance managed in above url but billing managed by our AWS account
 * We subscribed to this: https://aws.amazon.com/marketplace/pp/prodview-pp445qepfdy34
 * DB name: discord-moderation-prod
